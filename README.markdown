@@ -1,6 +1,10 @@
 Sprockets4j
 ===========
 
+Note: this project isn't fully functioning yet.
+
+----
+
 Sprockets4j is a Java port of [Sam Stephenson's Sprockets Ruby library](http://github.com/sstephenson/sprockets). 
 
 ## Why port?
