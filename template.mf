@@ -1,0 +1,10 @@
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: ${project.groupId}.${project.artifactId}
+Bundle-Version: ${project.version}
+Bundle-Name: ${project.name}
+Import-Template: 
+ org.apache.commons.lang.*;version="${org.apache.commons.lang.version:mm}",
+ org.apache.commons.io.*;version="${org.apache.commons.io.version:mm}",
+ org.slf4j.*;version="${org.slf4j.version:mm}"
+Version-Patterns: 
+ mm;pattern="[=.=.0, +1.0.0]"
