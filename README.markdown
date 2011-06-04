@@ -1,7 +1,9 @@
 Sprockets4j
 ===========
 
-Note: this project isn't fully functioning yet.
+**Note: I've stopped developing this project. Consider using [RequireJS](http://requirejs.org/) instead.**
+
+
 
 ----
 
@@ -9,11 +11,7 @@ Sprockets4j is a Java port of [Sam Stephenson's Sprockets Ruby library](http://g
 
 ## Why port?
 
-Two reasons:
-
-1.  Sometimes, when the stars are aligned to form a magical **J** in the sky, and the northern winds keep the java-hacker or two awake at night, an awesome Java project is born. Sprockets4j will gently and passionately care for the JS and CSS assets of those projects.
-
-2.  To learn Ruby. I strongly believe that the best way to learn anything is to truly **need the knowledge** that you're trying to acquire. Porting requires full understanding of the code, and thus creates that need, essential for learning the language.
+To learn Ruby. I strongly believe that the best way to learn anything is to need the knowledge. Porting requires good understanding of the code, and thus creates that need, essential for learning the language.
 
 
 ## Original project info
