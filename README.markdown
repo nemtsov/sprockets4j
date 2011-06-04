@@ -1,7 +1,7 @@
 Sprockets4j
 ===========
 
-**Note: I've stopped developing this project. Consider using [RequireJS](http://requirejs.org/) instead.**
+**Note: I've stopped developing this project, as I no longer believe in it's usefulness. Consider using [RequireJS](http://requirejs.org/) instead.**
 
 
 
