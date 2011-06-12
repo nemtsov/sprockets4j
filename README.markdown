@@ -1,4 +1,4 @@
-Sprockets4j
+Sprockets4j [Project Status](http://stillmaintained.com/georgecalm/sprockets4j.png)
 ===========
 
 **Note: I've stopped developing this project, as I no longer believe in it's usefulness. Consider using [RequireJS](http://requirejs.org/) instead.**
