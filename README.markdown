@@ -3,8 +3,6 @@ Sprockets4j ![Project Status](http://stillmaintained.com/georgecalm/sprockets4j.
 
 **Note: I've stopped developing this project, as I no longer believe in it's usefulness. Consider using [RequireJS](http://requirejs.org/) instead.**
 
-
-
 ----
 
 Sprockets4j is a Java port of [Sam Stephenson's Sprockets Ruby library](http://github.com/sstephenson/sprockets). 
